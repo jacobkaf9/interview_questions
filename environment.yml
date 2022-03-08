@@ -1,9 +1,9 @@
-name: /Users/JacobKaffey/Zephyr_AI/Interview_questions/int-env
+name: int-env
 channels:
   - conda-forge
-  - defaults
+  - bioconda
 dependencies:
   - bioinfokit
   - ipykernel
   - gseapy
-prefix: /Users/JacobKaffey/Zephyr_AI/Interview_questions/int-env
+prefix: int-env
