@@ -1,5 +1,0 @@
-name: int-env
-channels:
-  - conda-forge
-  - defaults
-prefix: /opt/anaconda3/envs/int-env
